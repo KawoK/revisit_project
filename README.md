@@ -10,7 +10,7 @@
   3. Each project must be deployed if can.
   4. Write Daily Report on Word, Medium, Blog, etc, as long as it is documented
 
-#[About Project]
+# About Project
 
 Project Title : Cashflow Management System
 Programming Languages :
@@ -18,7 +18,7 @@ Programming Languages :
   2. Back-End : Go Language, PHP ( Framework CodeIgniter) , Database Mysql
 
 
-#[Install Guide]
+# Install Guide
 
 1. Run local web server
 2. Import database kawokmoneymanager.sql 
